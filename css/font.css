@@ -10,16 +10,12 @@ body{font-family: Helvetica, sans-serif;}
 #sub .forText, .next, .back{
  font-family: 'Apple Symbols', 'Didact Gothic', sans-serif;
 }
-
+#sub .forText.web a{
+font-family:'Apple Symbols', 'Didact Gothic', sans-serif;
+}
 #sub .bottomTitle .titleF{
 font-family: 'Roboto', sans-serif; font-weight: 500;
 }
-#sub .bottomTitle .titleS, .mobile{
-font-family: 'Roboto', sans-serif; font-weight: 300;
-}
-.forText.reference{
-     font-family: 'Apple Symbols', 'Didact Gothic', sans-serif;
-}
-.reference:after{
+#sub .bottomTitle .titleS{
 font-family: 'Roboto', sans-serif; font-weight: 300;
 }
